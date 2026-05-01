@@ -1,6 +1,6 @@
 # AI Pricing Intelligence Engine
 
-A **decision-grade pricing intelligence system** for e-commerce products. Not a generic pricing calculator -- this is a tool that analyzes market conditions, computes real unit economics, tests business fragility, and delivers actionable go/no-go pricing decisions.
+A **decision-grade pricing intelligence system** for e-commerce products. Not a generic pricing calculator, this is a tool that analyzes market conditions, computes real unit economics, tests business fragility, and delivers actionable go/no-go pricing decisions.
 
 Built for e-commerce sellers, dropshippers, startup founders, and product managers who need to make high-impact pricing decisions with confidence.
 
