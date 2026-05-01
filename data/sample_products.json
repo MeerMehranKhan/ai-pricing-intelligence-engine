@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Wireless Bluetooth Earbuds",
+    "category": "electronics",
+    "cost": 8.50,
+    "market": "United States",
+    "platform": "amazon",
+    "competitor_prices": [19.99, 24.99, 22.50, 29.99, 34.99, 27.99, 21.00, 31.50],
+    "positioning": null,
+    "target_margin": 0.45,
+    "shipping_cost": 3.50,
+    "packaging_cost": 1.50,
+    "marketing_cac": 12.00
+  },
+  {
+    "name": "Organic Face Cream",
+    "category": "beauty",
+    "cost": 4.20,
+    "market": "United States",
+    "platform": "shopify",
+    "competitor_prices": [18.99, 24.99, 32.00, 15.99, 28.50, 22.00, 35.99],
+    "positioning": "mid-tier",
+    "target_margin": 0.65,
+    "shipping_cost": 3.00,
+    "packaging_cost": 2.50,
+    "marketing_cac": 18.00
+  },
+  {
+    "name": "Premium Yoga Mat",
+    "category": "fitness",
+    "cost": 12.00,
+    "market": "United States",
+    "platform": "amazon",
+    "competitor_prices": [29.99, 39.99, 45.00, 24.99, 35.00, 55.99, 32.00, 42.50, 28.00],
+    "positioning": "mid-tier",
+    "target_margin": 0.50,
+    "shipping_cost": 6.00,
+    "packaging_cost": 2.00,
+    "marketing_cac": 10.00
+  },
+  {
+    "name": "Mechanical Gaming Keyboard",
+    "category": "electronics",
+    "cost": 22.00,
+    "market": "United States",
+    "platform": "amazon",
+    "competitor_prices": [49.99, 59.99, 79.99, 39.99, 69.99, 89.99, 54.99, 64.99, 45.00, 74.99],
+    "positioning": "mid-tier",
+    "target_margin": 0.40,
+    "shipping_cost": 5.00,
+    "packaging_cost": 3.00,
+    "marketing_cac": 15.00
+  },
+  {
+    "name": "Coffee Subscription Box",
+    "category": "food_beverage",
+    "cost": 9.00,
+    "market": "United States",
+    "platform": "shopify",
+    "competitor_prices": [19.99, 24.99, 29.99, 34.99, 22.00, 27.50],
+    "positioning": null,
+    "target_margin": 0.40,
+    "shipping_cost": 5.50,
+    "packaging_cost": 3.50,
+    "marketing_cac": 14.00
+  }
+]
